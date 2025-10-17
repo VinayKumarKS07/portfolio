@@ -4,6 +4,8 @@ const Footer = () => (
              <p>&copy; {new Date().getFullYear()} Vinay Kumar KS. All Rights Reserved.</p>
         </div>
     </footer>
+
+    
 );
 
 export default Footer;
