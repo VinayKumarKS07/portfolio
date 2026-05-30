@@ -4,7 +4,7 @@ export const portfolioData = {
     email: "vinaykumarks87@gmail.com",
     phone: "8792205547",
     linkedin: "linkedin.com/in/vinaykumarks007",
-    summary: "Full Stack Developer with experience building and maintaining web applications using ASP.NET Core and React. Skilled in the full software development lifecycle, from requirement gathering to deployment and maintenance. A proactive problem-solver with a strong focus on writing clean, efficient code and a keen interest in expanding expertise into Angular.js and cloud technologies.",
+    summary: "Software Engineer with more than 2 years of experience. Currently working on Philips Healthcare IGT project with Azure DevOps – managing PRs, gating, code health checks, AI code reviews and JFrog for package management. Previously worked on building scalable web apps using React.js, ASP.NET Core, Web API, SQL Server, and EF Core. Strong problem solver with a track record of delivering reliable and maintainable enterprise solutions. Full Stack Developer with experience building and maintaining web applications using ASP.NET Core and React. Skilled in the full software development lifecycle, from requirement gathering to deployment and maintenance. A proactive problem-solver with a strong focus on writing clean, efficient code and a keen interest in expanding expertise into Angular.js and cloud technologies.",
     skills: [
         { category: "Frontend", list: "React.js, HTML, CSS, JavaScript" },
         { category: "Backend", list: "C#, .NET, ASP.NET Core (6+), Web API, LINQ, EF-Core" },
