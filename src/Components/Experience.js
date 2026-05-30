@@ -9,7 +9,7 @@ const Experience = () => (
             </h2>
             <div className="bg-white rounded-lg p-6 md:p-8 shadow-md">
                 {portfolioData.experience.map((job, index) => (
-                    <div key={index}>
+                    <div key={index} className="mb-8 last:mb-0">
                         <div className="flex justify-between items-baseline flex-wrap">
                             <h3 className="text-lg font-bold text-gray-900">{job.role}</h3>
                             <p className="text-sm text-gray-500 font-medium">{job.period}</p>
